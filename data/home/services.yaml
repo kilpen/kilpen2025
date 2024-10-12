@@ -6,22 +6,22 @@ content:
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Managed Technology Services"
+      text: "We provide end-to-end information technology services for your organization.  We'll administer your systems and provide helpdesk support to your user community."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Open Source Hosting"
+      text: "We establish and maintain cloud-based application servers to hold all your open source applications.  Rest assured knowing your applications are secure and available."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Process Automation"
+      text: "We make your workflows efficient using powerful process automation tools.  Reduce costs and improve accuracy by leveraging platform APIs and automation."
       button:
         label: "Learn more"
         url: "#"
