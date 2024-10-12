@@ -1,15 +1,15 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://kilpen.dev"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "KilPen Technical Services"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
+  title: "KilPen Tech"
   description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
   images: 
     - "images/hero-image.png"
@@ -28,14 +28,13 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "4725 Bougainville Dr. #109, Honolulu, Hawaii 96818"
 
   contact:
     - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "123.456.7890"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2025 KilPen Technical Services LLc., All Rights Reserved"
 
 menus:
   main:
@@ -43,15 +42,15 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "About Us"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Our Services"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Our Solutions"
       url: "/#"
       weight: 4
 
