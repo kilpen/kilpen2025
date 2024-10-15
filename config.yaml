@@ -10,9 +10,9 @@ summaryLength: 20
 
 params:
   title: "KilPen Tech"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "We specialize in providing IT services and consulting to small and medium sized businesses globally."
   images: 
-    - "images/hero-image.png"
+    - "images/solutions/linode_masto.png"
 
   logo: "up-arrow.png"
 
@@ -34,7 +34,7 @@ params:
     - "trungkienspktnd@gamail.com"
     - "123.456.7890"
 
-  copyright: "© 2025 KilPen Technical Services LLc., All Rights Reserved"
+  copyright: "© 2025 KilPen Technical Services LLC., All Rights Reserved"
 
 menus:
   main:
@@ -43,18 +43,14 @@ menus:
       weight: 1
 
     - name: "About Us"
-      url: "/#"
+      url: "/about-us"
       weight: 2
 
     - name: "Our Services"
-      url: "/#"
+      url: "/services"
       weight: 3
 
     - name: "Our Solutions"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
       url: "/blog"
       weight: 5
 

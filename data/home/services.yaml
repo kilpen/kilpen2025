@@ -2,8 +2,8 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Our services"
+  text: "We offer custom service packages tailored to your technology needs.  Whether you're looking for reliable IT Operations or bespoke solutions, our team has you covered."
   cards:
     - image: "images/services-web-development.png"
       title: "Managed Technology Services"
