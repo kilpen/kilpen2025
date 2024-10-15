@@ -6,7 +6,7 @@ content:
   text: "We offer custom service packages tailored to your technology needs.  Whether you're looking for reliable IT Operations or bespoke solutions, our team has you covered."
   cards:
     - image: "images/services-web-development.png"
-      title: "Managed Technology Services"
+      title: "Managed IT"
       text: "We provide end-to-end information technology services for your organization.  We'll administer your systems and provide helpdesk support to your user community."
       button:
         label: "Learn more"
