@@ -5,21 +5,21 @@ content:
   title: "Our services"
   text: "We offer custom service packages tailored to your technology needs.  Whether you're looking for reliable IT Operations or bespoke solutions, our team has you covered."
   cards:
-    - image: "images/services-web-development.png"
+    - image: "images/managed-it-3.webp"
       title: "Managed IT"
       text: "We provide end-to-end information technology services for your organization.  We'll administer your systems and provide helpdesk support to your user community."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/linux-1.webp"
       title: "Open Source Hosting"
       text: "We establish and maintain cloud-based application servers to hold all your open source applications.  Rest assured knowing your applications are secure and available."
       button:
         label: "Learn more"
         url: "#"
 
-    - image: "images/services-web-development.png"
+    - image: "images/automation-1.webp"
       title: "Process Automation"
       text: "We make your workflows efficient using powerful process automation tools.  Reduce costs and improve accuracy by leveraging platform APIs and automation."
       button:

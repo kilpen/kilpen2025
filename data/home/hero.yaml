@@ -7,9 +7,9 @@ content:
 
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "/services"
 
   buttonSecondary:
     label: "Let's talk"
-    url: ""
+    url: "/contact"
 

@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Need technology consultation?"
-  image: "images/services-web-development.png"
+  image: "images/consult-1.png"
   button:
     label: "Let's talk"
-    url: "#"
+    url: "contact/"
