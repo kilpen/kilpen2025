@@ -1,15 +1,12 @@
-enabled: false
-id: "portfolio"
+enabled: true
+id: "giving"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/givingback.png"
+    pretitle: "Giving back"
+    title: "Mālama ʻāina"
+    text: "As a Hawaii Company, KilPen respects and appreciates the original inhabitants of these lands: the Kanaka Maoli.  We proudly donate a percentage of profit to the Edith Kanakaʻole Foundation Scholarship fund."
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+      - label: "Learn more"
+        url: "https://edithkanakaolefoundation.org/scholarship.php"
