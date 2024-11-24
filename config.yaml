@@ -12,7 +12,7 @@ params:
   title: "KilPen Tech"
   description: "We specialize in providing IT services and consulting to small and medium sized businesses globally."
   images: 
-    - "images/solutions/linode_masto.png"
+    - "images/hero-image.png"
 
   logo: "up-arrow.png"
 
@@ -39,7 +39,7 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/"
       weight: 1
 
     - name: "About Us"
@@ -54,9 +54,13 @@ menus:
       url: "/blog"
       weight: 5
 
+    - name: "Contact"
+      url: "/contact"
+      weight: 6
+
   buttons:
     - name: "Book a call"
-      url: "/contact"
+      url: "/booking"
       weight: 5
       pre: "btn btn-primary text-light"
 

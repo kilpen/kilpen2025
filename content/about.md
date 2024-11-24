@@ -1,25 +1,34 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+---
+title: "About KilPen Tech"
+description: "Technology experts with a mission"
+date: "2019-02-28"
+aliases: ["about-us", "about-hugo", "contact"]
+author: "Hugo Authors"
+---
+# The Company #
+Founded in 2016, KilPen Technical Services is a Hawaii-based, family-owned company dedicated to delivering technology solutions that empower organizations committed to making a positive impact in the world. Our mission is to provide affordable, expert technology services to nonprofits and socially conscious businesses without compromising on quality or integrity.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+As a veteran-founded business, our values are deeply rooted in service, community, and inclusivity. We proudly support diversity, with a particular focus on uplifting the LGBT community and creating an equitable environment for all. Our team is driven by a passion for leveraging technology to help others succeed, whether through streamlining operations, enhancing digital communication, or tackling complex IT challenges.
 
-Hugo makes use of a variety of open source projects including:
+While our primary focus is on nonprofit organizations, we also partner with for-profit businesses that share our commitment to social good. At KilPen, we believe that technology should be accessible to all, enabling organizations to amplify their missions and extend their impact.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Let us help you navigate the digital landscape with expertise, integrity, and heart. Together, we can make a difference.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+# The People #
+```
+"The whole is other than the sum of the parts." – Kurt Koffka
+```
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Christopher ##
+_Principal Consultant_
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+![Chris headshot](/images/chris.png)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+A former Marine, Chris has provided technical services for over 20 years.  With a Masters in Information Management and Bachelors in Computer Science, Chris leads the KilPen technical services and solution development efforts.  His current and past certifications include CISSP, PMP, Security+, Network+, ITIL Foundations, Certified Ethical Hacker, and CASP.
+
+## Elmer ##
+_Process Architect_
+
+![Elmer headship](/images/elmer.png)
+
+Elmer has travelled the globe with the US Navy but now calls O'ahu home.  Armed with a Masters in Business Administration, two Health Care Administration degrees, and a Lean Six Sigma Black Belt, Elmer leads Team KilPen's process development efforts while managing business operations.

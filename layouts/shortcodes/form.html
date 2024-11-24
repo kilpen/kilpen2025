@@ -1,0 +1,32 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<div class="fcontainer">
+  <form action="https://n8n.kilpen.com/webhook/e4f083c7-a320-468a-a213-5b28429fba04" method="post" class="form">
+    <div class="row">
+      <div class="col-100">
+        <input type="text" id="name" name="name" placeholder="Name">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-100">
+        <input type="text" id="email" name="email" placeholder="Email Address">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-100">
+        <textarea id="message" name="message" placeholder="How can we help?" style="height:200px"></textarea>
+      </div>
+    </div>
+    <div class="row">
+      <input type="submit" value="Submit">
+    </div>
+  </form>
+</div>
+
+<script>
+    $(document).ready(function(){
+        $('.form').on('submit', function(){
+            alert('We got your message!  Someone will be in touch soon.');
+        });
+    });
+</script>
