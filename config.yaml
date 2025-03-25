@@ -38,25 +38,25 @@ params:
 
 menus:
   main:
-    - name: "Home"
-      url: "/"
-      weight: 1
-
     - name: "About Us"
       url: "/about-us"
+      weight: 1
+
+    - name: "Services"
+      url: "/services"
       weight: 2
 
-    - name: "Our Services"
-      url: "/services"
+    - name: "Custom Solutions"
+      url: "/solutions"
       weight: 3
-
-    - name: "Our Solutions"
-      url: "/blog"
-      weight: 5
 
     - name: "Contact"
       url: "/contact"
-      weight: 6
+      weight: 4
+
+    - name: "Blog⧉"
+      url: "https://blog.kilpen.com"
+      weight: 5
 
   buttons:
     - name: "Book a call"
@@ -65,25 +65,13 @@ menus:
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Home"
-      url: "/#hero"
+    - name: "Videos"
+      url: "https://vids.kilpen.com"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
-      weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
     - name: "Blog"
-      url: "/blog"
-      weight: 5
+      url: "https://blog.kilpen.com"
+      weight: 2
 
 taxonomies:
   series: "series"

@@ -1,6 +1,6 @@
 +++
-aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Our Solutions"
+aliases = ["solutions", "articles", "showcase", "docs"]
+title = "Custom Solutions"
 author = "KilPen Tech"
 tags = ["index"]
 +++
